@@ -1,0 +1,3 @@
+[submodule "Plugins/SimInterface"]
+	path = Plugins/SimInterface
+	url = https://github.com/tomjhunt13/SimInterface.git
