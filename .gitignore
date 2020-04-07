@@ -2,4 +2,5 @@
 .idea*
 Binaries/*
 Intermediate/*
-
+cmake-build-debug/*
+Saved/*
