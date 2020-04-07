@@ -4,3 +4,4 @@ Binaries/*
 Intermediate/*
 cmake-build-debug/*
 Saved/*
+CMakeLists.txt
