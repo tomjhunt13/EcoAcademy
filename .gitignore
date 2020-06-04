@@ -5,3 +5,4 @@ Intermediate/*
 cmake-build-debug/*
 Saved/*
 CMakeLists.txt
+*_BuiltData.uasset
