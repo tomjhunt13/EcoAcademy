@@ -3,6 +3,8 @@
 ## Overview
 Eco Academy is a video game built for my final year masters engineering project: "Eco Academy: An educational video game". The game challenges users to drive a vehicle simulation as efficiently as possible in a city driving scenario. Players can adjust vehicle parameters to perfect their vehicle, engaging them in engineering and sustainability.
 
+Included in this repository are the UE4 project files. Additionally, my dissertation is included for detailed reference.
+
 ## Implementation
 The game is created in Unreal Engine 4 (UE4). I made a vehicle simulation in C++ (repository: https://github.com/tomjhunt13/SimFramework) which I wrapped into a plugin for UE4 (repository https://github.com/tomjhunt13/SimInterface).
 
